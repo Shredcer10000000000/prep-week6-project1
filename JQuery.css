@@ -1,0 +1,36 @@
+body {
+	background-color: #fffaea;
+	font-family: arial;
+}
+
+main {
+	width: 500px;
+	margin: auto;
+}
+
+img {
+	width: 100%;
+	height: auto;
+	border-radius: 12px;
+}
+
+a:link, 
+a:visited,
+a:hover,
+a:active { 
+  color: #e6ac28; 
+  text-decoration: none;
+  font-weight: bold;
+ }
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+API
+Training
+Shop
+Blog
+About
